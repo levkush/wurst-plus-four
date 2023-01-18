@@ -1,17 +1,8 @@
-![logo](src/main/resources/logo.png)
-
 # Wurst+4 
 
-<!--<img src="https://img.shields.io/github/downloads/levkush/wurst-plus-three/total" alt="downloads" />-->
+<img src="https://img.shields.io/github/downloads/levkush/wurst-plus-four/total" alt="downloads"/>
 
-
-1.12.2 forge minecraft client
-
-Made for crystalpvp and killing noobs.
-
-On first run ensure your voices volume is maxed ;)
-
-[CoC](CODE_OF_CONDUCT.md)
+levkush's continuation of WurstPlus series.
 
 ## Credits
 
@@ -35,7 +26,7 @@ If you want to compile your own binaries use the following commands
 
 Right shift opens the GUI
 
-'.' is the default prefix, to change this go to .minecraft\Wurstplus3\configs\default\BINDS.txt and change the top line
+'.' is the default prefix, to change this go to .minecraft\Wurstplus4\configs\default\BINDS.txt and change the top line
 
 For a list of commands [click here](Commands.md)
 
