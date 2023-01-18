@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "wurstplusfour",
+    "name": "Wurst+4",
+    "description": "Wurst +3 continuation.",
+    "version": "0.0.1",
+    "mcversion": "1.12.2",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["levkush"],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
